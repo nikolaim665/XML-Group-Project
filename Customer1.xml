@@ -1,0 +1,7 @@
+<Customer>
+	<User.userId>2311001</User.userId>
+	<User.username>JumpyCloud22</User.username>
+	<User.password>password223311</User.password>
+	<Customer.email>j.cloud@gmail.com</Customer.email>
+	<Customer.tickets>[Coldplay, U2]</Customer.tickets>
+</Customer>
