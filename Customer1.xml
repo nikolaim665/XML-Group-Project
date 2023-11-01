@@ -1,7 +1,12 @@
 <Customer>
-	<User.userId>2311001</User.userId>
-	<User.username>JumpyCloud22</User.username>
-	<User.password>password223311</User.password>
-	<Customer.email>j.cloud@gmail.com</Customer.email>
-	<Customer.tickets>[Coldplay, U2]</Customer.tickets>
+    <User>
+        <userId>2311001</userId>
+        <username>JumpyCloud22</username>
+        <password>password223311</password>
+    </User>
+    <email>j.cloud@gmail.com</email>
+    <tickets>
+        <ticket>Coldplay</ticket>
+        <ticket>U2</ticket>
+    </tickets>
 </Customer>
