@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Artists>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>1</entertainer_id>
+            <name>Ariana Grande</name>
+            <eventsList>
+                <event>New York</event>
+                <event>Los Angeles</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Sweetener World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>2</entertainer_id>
+            <name>Taylor Swift</name>
+            <eventsList>
+                <event>Nashville</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Lover Fest</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>3</entertainer_id>
+            <name>Ed Sheeran</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName=÷ Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>4</entertainer_id>
+            <name>Billie Eilish</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Chicago</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Where Do We Go? World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>5</entertainer_id>
+            <name>Justin Bieber</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Justice World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>6</entertainer_id>
+            <name>Dua Lipa</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Future Nostalgia Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>7</entertainer_id>
+            <name>Shawn Mendes</name>
+            <eventsList>
+                <event>Toronto</event>
+                <event>Los Angeles</event>
+                <event>New York</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Wonder: The World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>8</entertainer_id>
+            <name>Katy Perry</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Mexico City</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Witness: The Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>9</entertainer_id>
+            <name>The Weeknd</name>
+            <eventsList>
+                <event>Toronto</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>After Hours World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>10</entertainer_id>
+            <name>Lady Gaga</name>
+            <eventsList>
+                <event>New York</event>
+                <event>Los Angeles</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Chromatica Ball Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>11</entertainer_id>
+            <name>Bruno Mars</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Houston</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>24K Magic World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>12</entertainer_id>
+            <name>Selena Gomez</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Mexico City</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Revelación Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>13</entertainer_id>
+            <name>Harry Styles</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Love On Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>14</entertainer_id>
+            <name>Shakira</name>
+            <eventsList>
+                <event>Barcelona</event>
+                <event>Los Angeles</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>El Dorado World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>15</entertainer_id>
+            <name>Beyoncé</name>
+            <eventsList>
+                <event>Houston</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>The Formation World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>16</entertainer_id>
+            <name>Drake</name>
+            <eventsList>
+                <event>Toronto</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Assassination Vacation Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>17</entertainer_id>
+            <name>Cardi B</name>
+            <eventsList>
+                <event>New York</event>
+                <event>Los Angeles</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Invasion of Privacy Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>18</entertainer_id>
+            <name>BTS</name>
+            <eventsList>
+                <event>Seoul</event>
+                <event>Los Angeles</event>
+                <event>New York</event>
+            </eventsList>
+        </Entertainer>
+        <genre>K-Pop</genre>
+        <tourName>Love Yourself: Speak Yourself Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>19</entertainer_id>
+            <name>Khalid</name>
+            <eventsList>
+                <event>El Paso</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Free Spirit World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>20</entertainer_id>
+            <name>Jonas Brothers</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Happiness Begins Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>21</entertainer_id>
+            <name>Camila Cabello</name>
+            <eventsList>
+                <event>Miami</event>
+                <event>Los Angeles</event>
+                <event>New York</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Romance Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>22</entertainer_id>
+            <name>Miley Cyrus</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Nashville</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Bangerz Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>23</entertainer_id>
+            <name>Adele</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Adele Live</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>24</entertainer_id>
+            <name>Sam Smith</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>The Thrill of It All Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>25</entertainer_id>
+            <name>Demi Lovato</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Demi World Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>26</entertainer_id>
+            <name>Kesha</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Nashville</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Rainbow Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>27</entertainer_id>
+            <name>Lizzo</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Chicago</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Cuz I Love You Too Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>28</entertainer_id>
+            <name>Charlie Puth</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Voicenotes Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>29</entertainer_id>
+            <name>Zayn Malik</name>
+            <eventsList>
+                <event>London</event>
+                <event>New York</event>
+                <event>Los Angeles</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Icarus Falls Tour</tourName>
+    </Artist>
+    <Artist>
+        <Entertainer>
+            <entertainer_id>30</entertainer_id>
+            <name>Post Malone</name>
+            <eventsList>
+                <event>Los Angeles</event>
+                <event>New York</event>
+                <event>Miami</event>
+            </eventsList>
+        </Entertainer>
+        <genre>Pop</genre>
+        <tourName>Runaway Tour</tourName>
+    </Artist>
+</Artists>

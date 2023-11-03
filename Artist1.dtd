@@ -3,7 +3,7 @@
     <!ELEMENT Entertainer (entertainer_id, name, eventsList)>
     <!ELEMENT entertainer_id (#PCDATA)>
     <!ELEMENT name (#PCDATA)>
-    <!ELEMENT eventsList (event*)>
+    <!ELEMENT eventsList (event)>
     <!ELEMENT event (#PCDATA)>
     <!ELEMENT genre (#PCDATA)>
     <!ELEMENT tourName (#PCDATA)>
