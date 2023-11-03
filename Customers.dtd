@@ -1,0 +1,11 @@
+<!DOCTYPE Customers [
+    <!ELEMENT Customers (Customer+)>
+    <!ELEMENT Customer (User, email, tickets)>
+    <!ELEMENT User (userId, username, password)>
+    <!ELEMENT userId (#PCDATA)>
+    <!ELEMENT username (#PCDATA)>
+    <!ELEMENT password (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT tickets (ticket+)>
+    <!ELEMENT ticket (#PCDATA)>
+]>

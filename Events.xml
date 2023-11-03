@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE events SYSTEM "Events.dtd">
+<Events>
+    <Event>
+        <event_ID>1</event_ID>
+        <venue></venue>
+        <date></date>
+        <entertainer></entertainer>
+        <tickets_available>255</tickets_available>
+    </Event>
+</Events>
