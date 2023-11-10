@@ -6,14 +6,14 @@
         <venue>Los Angeles</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
-        <tickets_available>255</tickets_available>
+        <tickets_available>5</tickets_available>
     </Event>
     <Event>
         <event_ID>2</event_ID>
-        <venue>Los Angeles</venue>
-        <date>21/11/2023</date>
-        <entertainer>1</entertainer>
-        <tickets_available>255</tickets_available>
+        <venue>Miami</venue>
+        <date>13/12/2023</date>
+        <entertainer>5</entertainer>
+        <tickets_available>4</tickets_available>
     </Event>
     <Event>
         <event_ID>3</event_ID>

@@ -8,57 +8,57 @@
     </Ticket>
     <Ticket>
         <ticketID>2</ticketID>
-        <event>1</event>
+        <event>2</event>
         <customer>1</customer>
     </Ticket>
     <Ticket>
         <ticketID>3</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>2</customer>
     </Ticket>
     <Ticket>
         <ticketID>4</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>2</customer>
     </Ticket>
     <Ticket>
         <ticketID>5</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>3</customer>
     </Ticket>
     <Ticket>
         <ticketID>6</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>3</customer>
     </Ticket>
     <Ticket>
         <ticketID>7</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>4</customer>
     </Ticket>
     <Ticket>
         <ticketID>8</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>4</customer>
     </Ticket>
     <Ticket>
         <ticketID>9</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>5</customer>
     </Ticket>
     <Ticket>
         <ticketID>10</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>7</customer>
     </Ticket>
     <Ticket>
         <ticketID>11</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>9</customer>
     </Ticket>
     <Ticket>
         <ticketID>12</ticketID>
         <event>1</event>
-        <customer>1</customer>
+        <customer>10</customer>
     </Ticket>
 </Tickets>
