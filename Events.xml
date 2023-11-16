@@ -3,14 +3,14 @@
 <Events>
     <Event>
         <event_ID>1</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>2</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>5</tickets_available>
     </Event>
     <Event>
         <event_ID>2</event_ID>
-        <venue>Miami</venue>
+        <venue>4</venue>
         <date>13/12/2023</date>
         <entertainer>5</entertainer>
         <tickets_available>4</tickets_available>
@@ -24,49 +24,49 @@
     </Event>
     <Event>
         <event_ID>4</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>1</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>5</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>2</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>6</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>3</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>7</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>3</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>8</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>3</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>9</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>1</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>10</event_ID>
-        <venue>Los Angeles</venue>
+        <venue>3</venue>
         <date>21/11/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
