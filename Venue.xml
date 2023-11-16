@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE  Venue SYSTEM "Venue.dtd">
+<Venue>
+    <venue id="1">
+        <name>Aviva Stadium</name>
+        <address>62 Lansdowne Road, Dublin 4, Ireland</address>
+        <capacity>51000</capacity>
+    </venue>
+
+    <venue id="2">
+        <name>Croke Park</name>
+        <address>Jones' Rd, Drumcondra, Dublin, Ireland</address>
+        <capacity>82700</capacity>
+    </venue>
+    <venue id="3">
+        <name>Thomond Park</name>
+        <address>Cratloe Rd, Limerick, Ireland</address>
+        <capacity>25500</capacity>
+    </venue>
+    <venue id="4">
+        <name>Pairc Ui Chaoimh</name>
+        <address>Trabeg Sports Centre, Cork, Ireland</address>
+        <capacity>45000</capacity>
+    </venue>
+
+
+
+
+</Venue>
