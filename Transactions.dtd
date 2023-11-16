@@ -1,0 +1,9 @@
+<!ELEMENT Transactions (Transaction+)>
+<!ELEMENT Transaction (date,platform,paymentMethod,status,savedMethod,ticket)>
+<!ATTLIST Transaction id NMTOKEN #REQUIRED>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT platform (#PCDATA)>
+<!ELEMENT paymentMethod (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT savedMethod (#PCDATA)>
+<!ELEMENT ticket (#PCDATA)>

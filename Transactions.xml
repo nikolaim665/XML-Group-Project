@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Transactions SYSTEM "Transactions.dtd">
+
+<Transactions>
+    
+    <Transaction id="1">
+        <date>11/11/2023</date>
+        <platform>Paypal/Local</platform>
+        <paymentMethod>mastercard</paymentMethod>
+        <status>approved</status>
+        <savedMethod>yes</savedMethod>
+        <ticket>1</ticket>
+    </Transaction>
+
+    <Transaction id="2">
+        <date>11/11/2023</date>
+        <platform>Paypal/Local</platform>
+        <paymentMethod>visa</paymentMethod>
+        <status>declined</status>
+        <savedMethod>no</savedMethod>
+        <ticket>5</ticket>
+    </Transaction>
+
+    <Transaction id="3">
+        <date>11/11/2023</date>
+        <platform>Paypal/Local</platform>
+        <paymentMethod>discover</paymentMethod>
+        <status>approved</status>
+        <savedMethod>yes</savedMethod>
+        <ticket>9</ticket>
+    </Transaction>
+
+    <Transaction id="4">
+        <date>11/11/2023</date>
+        <platform>Paypal/Local</platform>
+        <paymentMethod>mastercard</paymentMethod>
+        <status>approved</status>
+        <savedMethod>yes</savedMethod>
+        <ticket>12</ticket>
+    </Transaction>
+</Transactions>
