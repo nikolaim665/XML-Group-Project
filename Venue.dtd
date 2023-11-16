@@ -1,0 +1,6 @@
+<!ELEMENT Venue (venue+)>
+<!ELEMENT venue (name,address,capacity)>
+<!ATTLIST venue id NMTOKEN #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT capacity (#PCDATA)>
