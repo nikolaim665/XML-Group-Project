@@ -1,0 +1,7 @@
+<!ELEMENT Events (Event+)>
+<!ELEMENT Event (event_ID,venue,date,entertainer,tickets_available)>
+<!ELEMENT event_ID (#PCDATA)>
+<!ELEMENT venue (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT entertainer (#PCDATA)>
+<!ELEMENT tickets_available (#PCDATA)>

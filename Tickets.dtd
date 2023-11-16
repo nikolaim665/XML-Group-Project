@@ -1,0 +1,5 @@
+<!ELEMENT Tickets (Ticket+)>
+<!ELEMENT Ticket (ticketID,event,customer)>
+<!ELEMENT ticketID (#PCDATA)>
+<!ELEMENT event (#PCDATA)>
+<!ELEMENT customer (#PCDATA)>
