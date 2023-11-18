@@ -1,6 +1,6 @@
 # XML Group Project
 group 6:
-- Anirudh Madhevan
+- Anirudh Madhavan
 - Tudor Manea
 - Roebrt Mee Lucy
 - Sofija Mitukevic
