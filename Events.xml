@@ -4,7 +4,7 @@
     <Event>
         <event_ID>1</event_ID>
         <venue>2</venue>
-        <date>21/11/2023</date>
+        <date>21/10/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>5</tickets_available>
     </Event>
@@ -39,14 +39,14 @@
     <Event>
         <event_ID>6</event_ID>
         <venue>3</venue>
-        <date>21/11/2023</date>
+        <date>21/12/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>
     <Event>
         <event_ID>7</event_ID>
         <venue>3</venue>
-        <date>21/11/2023</date>
+        <date>21/10/2023</date>
         <entertainer>1</entertainer>
         <tickets_available>255</tickets_available>
     </Event>

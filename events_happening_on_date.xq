@@ -2,7 +2,7 @@
 {
     for $event in doc("Events.xml")/Events/Event[date = "21/11/2023"]
     let $venue := doc("Venue.xml")/Venue/venue[@id = $event/venue]
-    let $artist := doc("Artist.xml")/Artists/Artist[Entertainer/entertainer_id = $event/entertainer]
+    let $artist := doc("Artists.xml")/Artists/Artist[Entertainer/entertainer_id = $event/entertainer]
     order by $artist/Entertainer/name
     return 
         <Event>

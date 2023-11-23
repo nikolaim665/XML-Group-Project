@@ -23,5 +23,5 @@
             <Status>{$trans/status/text()}</Status>
         </Transaction>
     </Purchase>
-} 
+}
 </CustomerPurchases>
