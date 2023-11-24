@@ -2,10 +2,13 @@
     <!ELEMENT Customers (Customer+)>
     <!ELEMENT Customer (User, email, tickets)>
     <!ELEMENT User (userId, username, password)>
-    <!ELEMENT userId (#PCDATA)>
+    <!ATTLIST User
+          userID ID #REQUIRED>
     <!ELEMENT username (#PCDATA)>
     <!ELEMENT password (#PCDATA)>
     <!ELEMENT email (#PCDATA)>
     <!ELEMENT tickets (ticket+)>
-    <!ELEMENT ticket (#PCDATA)>
+    <!ELEMENT ticket (ticketID)>
+    <!ATTLIST ticket
+          ticketID ID #REQUIRED>
 ]>

@@ -1,10 +1,13 @@
 <!DOCTYPE Artist [
     <!ELEMENT Artist (Entertainer, genre, tourName)>
     <!ELEMENT Entertainer (entertainer_id, name, eventsList)>
-    <!ELEMENT entertainer_id (#PCDATA)>
+    <!ATTLIST Entertainer
+          entertainer_id ID #REQUIRED>
     <!ELEMENT name (#PCDATA)>
     <!ELEMENT eventsList (event)>
-    <!ELEMENT event (#PCDATA)>
+    <!ELEMENT event (event_ID)>
+    <!ATTLIST event
+          event_ID ID #REQUIRED>
     <!ELEMENT genre (#PCDATA)>
     <!ELEMENT tourName (#PCDATA)>
 ]>

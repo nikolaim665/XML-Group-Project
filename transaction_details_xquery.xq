@@ -1,4 +1,3 @@
-
 declare function local:getTransactionDetails($transID as xs:string) as element(Transaction) {
     let $transactions := doc("Transactions.xml")/Transactions/Transaction
     return $transactions[@id = $transID]

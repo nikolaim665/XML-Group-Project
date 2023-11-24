@@ -1,5 +1,10 @@
 <!ELEMENT Tickets (Ticket+)>
 <!ELEMENT Ticket (ticketID,event,customer)>
-<!ELEMENT ticketID (#PCDATA)>
-<!ELEMENT event (#PCDATA)>
-<!ELEMENT customer (#PCDATA)>
+<!ATTLIST Ticket
+          ticketID ID #REQUIRED>
+<!ELEMENT event (event)>
+<!ATTLIST event
+          event_ID ID #REQUIRED>
+<!ELEMENT customer (customer)>
+<!ATTLIST customer
+          userID ID #REQUIRED>
