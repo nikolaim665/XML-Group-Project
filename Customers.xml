@@ -1,18 +1,31 @@
 <?xml version='1.0' encoding='utf-8' standalone="no"?>
+<!-- XML declaration specifying version, encoding, and standalone attribute -->
 <!DOCTYPE Customer SYSTEM "Customers.dtd">
+<!-- Document Type Definition (DTD) declaration -->
 <Customers>
+    <!-- Root element, representing a collection of customers -->
     <Customer>
+        <!-- Start of the first customer entry -->
         <User>
+            <!-- Subelement representing user information within a customer -->
             <userId>1</userId>
+            <!-- User's ID -->
             <username>t2zb8afxox</username>
+            <!-- User's username -->
             <password>y76il9m1wa</password>
+            <!-- User's password -->
         </User>
         <email>t2zb8afxox@gmail.com</email>
+        <!-- Email associated with the customer -->
         <tickets>
+            <!-- List of tickets associated with the customer -->
             <ticket>1</ticket>
+            <!-- Ticket ID -->
             <ticket>2</ticket>
+            <!-- Another Ticket ID -->
         </tickets>
     </Customer>
+    <!-- End of the first customer entry -->
     <Customer>
         <User>
             <userId>2</userId>
@@ -110,3 +123,4 @@
         </tickets>
     </Customer>
 </Customers>
+<!-- End of the root element -->
