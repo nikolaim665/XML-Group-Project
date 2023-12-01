@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- XML declaration specifying version, encoding, and standalone attribute -->
 <!DOCTYPE Tickets SYSTEM "Tickets.dtd">
+<!-- Document Type Definition (DTD) declaration -->
 <Tickets>
+    <!-- Root element, representing a collection of tickets -->
     <Ticket>
+        <!-- Start of the first ticket entry -->
         <ticketID>1</ticketID>
+        <!-- Ticket ID -->
         <event>1</event>
+        <!-- ID of the event associated with the ticket -->
         <customer>1</customer>
+        <!-- ID of the customer who owns the ticket -->
     </Ticket>
+    <!-- End of the first ticket entry -->
+	<!-- ... (similar blocks for the remaining tickets) ... -->
     <Ticket>
         <ticketID>2</ticketID>
         <event>2</event>
@@ -62,3 +71,4 @@
         <customer>10</customer>
     </Ticket>
 </Tickets>
+<!-- End of the root element -->
