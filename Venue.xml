@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- XML declaration specifying version, encoding, and standalone attribute -->
 <!DOCTYPE  Venue SYSTEM "Venue.dtd">
+<!-- Document Type Definition (DTD) declaration -->
 <Venue>
+    <!-- Root element, representing a collection of venues -->
     <venue id="1">
+        <!-- Start of the first venue entry with an ID attribute -->
         <name>Aviva Stadium</name>
+        <!-- Name of the venue -->
         <address>62 Lansdowne Road, Dublin 4, Ireland</address>
+        <!-- Address of the venue -->
         <capacity>51000</capacity>
+        <!-- Maximum capacity of the venue -->
     </venue>
-
+    <!-- End of the first venue entry -->
+    <!-- ... (similar blocks for the remaining venues) ... -->
     <venue id="2">
         <name>Croke Park</name>
         <address>Jones' Rd, Drumcondra, Dublin, Ireland</address>
@@ -23,3 +31,4 @@
         <capacity>45000</capacity>
     </venue>
 </Venue>
+<!-- End of the root element -->
