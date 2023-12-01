@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- XML declaration specifying version, encoding, and standalone attribute -->
 <!DOCTYPE events SYSTEM "Events.dtd">
+<!-- Document Type Definition (DTD) declaration -->
 <Events>
+    <!-- Root element, representing a collection of events -->
     <Event>
+        <!-- Start of the first event entry -->
         <event_ID>1</event_ID>
+        <!-- Event ID -->
         <venue>2</venue>
+        <!-- Venue ID or name -->
         <date>21/10/2023</date>
+        <!-- Date of the event -->
         <entertainer>1</entertainer>
+        <!-- ID of the entertainer associated with the event -->
         <tickets_available>5</tickets_available>
+        <!-- Number of available tickets for the event -->
     </Event>
+    <!-- End of the first event entry -->
     <Event>
         <event_ID>2</event_ID>
         <venue>4</venue>
@@ -72,3 +82,4 @@
         <tickets_available>255</tickets_available>
     </Event>
 </Events>
+<!-- End of the root element -->
