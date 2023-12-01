@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- XML declaration specifying version and encoding -->
 <!DOCTYPE Artists SYSTEM "Artists.dtd">
+<!-- Document Type Definition (DTD) declaration -->
 <Artists>
+<!-- Root element, representing a collection of artists -->
     <Artist>
+	 <!-- Start of the first artist entry -->
         <Entertainer>
+		<!-- Subelement representing an entertainer within an artist -->
             <entertainer_id>1</entertainer_id>
+			<!-- Entertainer's ID -->
             <name>Ariana Grande</name>
+			<!-- Entertainer's name -->
             <eventsList>
+			<!-- List of events associated with the entertainer -->
                 <event>1</event>
+				<!-- ID of an event associated with the entertainer -->
             </eventsList>
         </Entertainer>
         <genre>Pop</genre>
+		<!-- Genre associated with the artist -->
         <tourName>Sweetener World Tour</tourName>
+		<!-- Name of the artist's tour -->
     </Artist>
+	<!-- End of the first artist entry -->
     <Artist>
         <Entertainer>
             <entertainer_id>2</entertainer_id>
@@ -112,3 +124,4 @@
         <tourName>Chromatica Ball Tour</tourName>
     </Artist>
 </Artists>
+<!-- End of the root element -->
