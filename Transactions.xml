@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- XML declaration specifying version, encoding, and standalone attribute -->
 <!DOCTYPE Transactions SYSTEM "Transactions.dtd">
-
+<!-- Document Type Definition (DTD) declaration -->
 <Transactions>
-    
+    <!-- Root element, representing a collection of transactions -->
     <Transaction id="1">
+        <!-- Start of the first transaction entry with an ID attribute -->
         <date>11/11/2023</date>
+        <!-- Date of the transaction -->
         <platform>Paypal/Local</platform>
+        <!-- Payment platform used for the transaction -->
         <paymentMethod>mastercard</paymentMethod>
+        <!-- Payment method used for the transaction -->
         <status>approved</status>
+        <!-- Status of the transaction -->
         <savedMethod>yes</savedMethod>
+        <!-- Indicates if the payment method was saved for future use -->
         <ticket>1</ticket>
+        <!-- Ticket ID associated with the transaction -->
     </Transaction>
-
+    <!-- End of the first transaction entry -->
+    <!-- ... (similar blocks for the remaining transactions) ... -->
     <Transaction id="2">
         <date>11/11/2023</date>
         <platform>Paypal/Local</platform>
@@ -39,3 +48,4 @@
         <ticket>12</ticket>
     </Transaction>
 </Transactions>
+<!-- End of the root element -->
